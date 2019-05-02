@@ -4,7 +4,7 @@
 # pixels of image and modify it 
 from PIL import Image 
 # fonction a récupérer
-
+from matplotlib import Image
 # Convert encoding data into 8-bit binary 
 # form using ASCII value of characters 
 def genData(data): 
